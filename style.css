@@ -6,12 +6,13 @@
 html{
 	width: 100%;
 	min-width: 1106px;
-	border: 3px solid black;
+	border: 0px solid black;
 	box-sizing: border-box;
 }
 
 body{
 	width: 100%;
+	background-color: #C0C0C0;
 }
 footer{
 	text-align: center;
@@ -88,9 +89,7 @@ footer{
 }
 
 .activeMenu {
-	background-image: url(./img/actbutton.png);
-	background-repeat: repeat-x;
-	color: white;
+	color: #bbb;
 }
 
 .menulist a{
